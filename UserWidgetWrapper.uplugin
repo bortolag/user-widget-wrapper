@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "User Widget Wrapper",
+	"Description": "In the Widget Blueprint Editor, allows the user to wrap widget components into a new User Widget asset.",
+	"Category": "Other",
+	"CreatedBy": "Gianluca Bortolanza",
+	"CreatedByURL": "https://github.com/bortolag",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UserWidgetWrapper",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ContentBrowserAssetDataSource",
+			"Enabled": true
+		}
+	]
+}
