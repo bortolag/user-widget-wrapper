@@ -3,7 +3,7 @@ A small tool for Unreal Engine 5 that lets you wrap widget components in the Wid
 
 ## Installing the Plugin
 
-Simply put the content of the plugin in `YourProjectFolder/Plugins/`.
+Simply put the content of the plugin in `YourProjectFolder/Plugins/`, check latest releases for pre-compiled binaries.
 
 ## Enabling the Plugin in your Project
 
